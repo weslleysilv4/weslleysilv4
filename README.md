@@ -16,18 +16,14 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Weslley Silva. I currently live in Paraná, Brazil and looking for opportunities. 
-
-On my free time, I manage the @he4rtdevs community, which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code.
-
-Nowadays I decided to focus on my TwitchTV channel and make entertainment with coding stuffs and build random projects while I try to teach something of these steps of "know how" to my viewers.
+My name is Weslley Silva. I currently live in Paraná, Brazil and looking for opportunities. I'm learning JavaScript and other programming languages. I'll to be a Front-End Developer with emphasis in mobile but i'm free for changes and oportunities.
 
 ## Detailed information
 
 * **Name**: Weslley Silva
 * **Age**: 23
 * **Living in**: Paraná, Brazil
-* **Stack**: JavaScript - CSS3 - HTML5 - C
+* **Stack**: JavaScript - CSS3 - HTML5 - C - Photoshop - Adobe Xd - Figma
 * **University**: ADS in UTFPR - Federal University Tecnology of Paraná .
 
 ## Curiosities about me
