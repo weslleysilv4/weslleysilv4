@@ -12,7 +12,7 @@
 
 ## Hello there
 
-I don't really know how u got here, but I will try to show a little bit about myself for you.
+I don't really know how u got here, but I will try to show a little bit about me, enjoy.
 
 ## Public information
 
@@ -21,7 +21,7 @@ My name is Weslley Silva. I currently live in Paraná, Brazil and looking for op
 ## Detailed information
 
 * **Name**: Weslley Silva
-* **Age**: 23
+* **Age**: 24
 * **Living in**: Paraná, Brazil
 * **Stack**: JavaScript - CSS3 - HTML5 - C - Photoshop - Adobe Xd - Figma
 * **University**: ADS in UTFPR - Federal University Tecnology of Paraná .
