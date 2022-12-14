@@ -2,7 +2,7 @@
     <a target='_blank' href="https://twitter.com/wes_silvas">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a target='_blank' href="https://instagram.com/weslleysilva.cba">
+    <a target='_blank' href="https://instagram.com/weslley.s11">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/silvaweslley/">
@@ -29,5 +29,4 @@ My name is Weslley Silva. I currently live in Paraná, Brazil and looking for op
 ## Curiosities about me
 
 * I play Piano, Guitar and Bass. I learned this instruments to play in the Church.
-* I started coding with focus to be a Hacker.
-* I really like to help people.
+
