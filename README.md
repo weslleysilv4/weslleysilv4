@@ -16,17 +16,20 @@ I don't really know how u got here, but I will try to show a little bit about me
 
 ## Public information
 
-My name is Weslley Silva. I currently live in Paraná, Brazil and looking for opportunities. I'm learning JavaScript and other programming languages. I'll to be a Front-End Developer with emphasis in mobile but i'm free for changes and oportunities.
+My name is Weslley Silva. I currently live in Paraná, Brazil and i'm looking for opportunities. 
+I'm learning Java and JavaScript. 
+I'll to be a FullStack Developer.
 
 ## Detailed information
 
 * **Name**: Weslley Silva
 * **Age**: 24
 * **Living in**: Paraná, Brazil
-* **Stack**: JavaScript - CSS3 - HTML5 - C - Photoshop - Adobe Xd - Figma
+* **Stack**: JavaScript - CSS3 - HTML5 - Java - Photoshop - Figma
 * **University**: ADS in UTFPR - Federal University Tecnology of Paraná .
 
 ## Curiosities about me
-
-* I play Piano, Guitar and Bass. I learned this instruments to play in the Church.
+* I'm Black belt in Shotokan Karatê
+* I play Piano. I learned this to play in the Church.
+* I'm good in CS:GO and LoL.
 
