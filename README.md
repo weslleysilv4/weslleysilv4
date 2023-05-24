@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysilv4&layout=compact&hide_border=true&title_color=04A777&text_color=E8EFF5&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=weslleysilv4&theme=gotham)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=weslleysilv4&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
