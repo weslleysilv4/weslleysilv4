@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04A777&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f00ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04A777&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Weslley+Silva;I'm+24+years+old;I'm+from+Brazil,+PR;I+study+Systems+Development+at+UTFPR;Federal+Tecnology+University+of+Paraná;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Weslley+Silva;I'm+24+years+old;I'm+from+Brazil,+PR;I+study+Systems+Development+at+UTFPR;Federal+Tecnology+University+of+Paraná;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weslleysilv4&show_icons=true&count_private=true&hide_border=true&title_color=04A777&icon_color=04A777&text_color=E8EFF5&bg_color=0d1117" alt="Weslley Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysilv4&layout=compact&hide_border=true&title_color=04A777&text_color=E8EFF5&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weslleysilv4&show_icons=true&count_private=true&hide_border=true&title_color=6f00ff&icon_color=6f00ff&text_color=E8EFF5&bg_color=0d1117" alt="Weslley Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysilv4&layout=compact&hide_border=true&title_color=6f00ff&text_color=E8EFF5&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -43,10 +43,10 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{weslleysilv4}/count.svg" /></p> 
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{weslleysilv4}/count.svg" /></p> 
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04A777&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f00ff&height=120&section=footer"/>
